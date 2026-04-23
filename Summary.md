@@ -1,0 +1,1 @@
+This case study shows how an energy company used AI to optimize plant performance, reduce costs, and cut emissions. By scaling AI across operations, the company demonstrated how innovation can transform legacy industries.
